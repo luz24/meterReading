@@ -1,0 +1,9 @@
+{
+  "/api": {
+    "target": "https://lilcortexbucket.blob.core.windows.net/public/meters.json",
+    "secure": false,
+    "pathRewrite": {
+      "^/api": ""
+    }
+  }
+}

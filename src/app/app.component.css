@@ -1,0 +1,22 @@
+h2 {
+	background: teal;
+	font-family: Arial;
+	color: white;
+	font-size: 3em;
+	font-weight: normal;
+	display: inline;
+	padding: 6px 12px;
+}
+
+.section {
+	margin-top: 15px;
+}
+
+agm-map {
+	height: 500px;
+}
+
+.diagram {
+	display: block; 
+	width: 100% !important;
+}
